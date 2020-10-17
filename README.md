@@ -6,6 +6,9 @@ This Magisk module installs the latest stable version of the hyperfine tool to t
 
 ## Change Log
 
+### v1.1 - 2020-10-17
+* Updated hyperfine version to 1.11.0
+
 ### v1.0 - 2020-04-12
 * Initial release
 
